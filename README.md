@@ -81,13 +81,12 @@ Performance evaluated through accuracy, precision, recall, F1-score, and detaile
 Performance Evaluation:
 Comprehensive analysis of model performance, with visualizations for comparative insights.
 
-How to Run the Code
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/yourusername/data-mining-projects-breast-cancer-loan-prediction.git
-Open Jupyter Notebooks or Colab links provided for each project.
-Follow the step-by-step execution as outlined in the notebooks.
+How to Run the Code:
+1) Download the code files directly as a ZIP file from the GitHub repository and extract them to a local directory.
+2) Ensure the datasets (data.csv, scaled_breast_cancer_dataset.csv, and bankloan.csv) are placed in the same directory as your code notebooks or uploaded to your Google Drive.
+3) Run in Jupyter Notebook or Google Colab
+4) After running all the cells, view the visualizations, model outputs, and printed results within the notebook interface.
+
 Tools and Technologies Used
 Programming Language: Python
 
