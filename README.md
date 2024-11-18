@@ -48,18 +48,17 @@ Visual plots illustrating clustering, feature importance, and other insights.
 Project Structure
 
 Supervised-and-Unsupervised-Learning/
-   - │
-   - ├── datasets/
-   -    - ├── breast_cancer_data.csv
-   -    - └── bankloan.csv
-   - │
-   - ├── notebooks/
-   -    - ├── breast_cancer_analysis.ipynb
-   -    - ├── loan_prediction_analysis.ipynb
-   -    - ├── feature_selection_methods.ipynb
-   -    - └── model_evaluation.ipynb
-   - │
-   - ├── README.md
+   - 
+   - datasets/
+   -    - breast_cancer_data.csv
+   -    - bankloan.csv
+   - 
+   - notebooks/
+   -    - DM_Assignment_2_Part_1.ipynb
+   -    - DM_Assignment_2_Part_2.ipynb
+   -    - DM_Assignment_2_Part_3.ipynb
+   - 
+   - README.md
 
 Key Steps and Techniques Applied
 
